@@ -9,6 +9,7 @@ script_2 : Calcul d'un factoriel<br>
 script_3 : Affichage d'une pyramide<br>
 script_4 : Récupération d'information depuis une array d'entrepreneurs<br>
 script_5 : Récupération d'information depuis une array de livres<br>
+script_7 : Bot hyper sympa, essaie et tu verras ! 
 
 
 ### Pour utiliser ce repo
